@@ -1,0 +1,16 @@
+G:\Projekty\MCrawler\MCrawler\bin\Debug\MCrawler.exe.config
+G:\Projekty\MCrawler\MCrawler\bin\Debug\MCrawler.exe
+G:\Projekty\MCrawler\MCrawler\bin\Debug\MCrawler.pdb
+G:\Projekty\MCrawler\MCrawler\obj\Debug\MCrawler.exe
+G:\Projekty\MCrawler\MCrawler\obj\Debug\MCrawler.pdb
+G:\Projekty\MCrawler\MCrawler\bin\Debug\log4net.dll
+G:\Projekty\MCrawler\MCrawler\bin\Debug\log4net.xml
+G:\Projekty\MCrawler\MCrawler\bin\Debug\Ninject.dll
+G:\Projekty\MCrawler\MCrawler\bin\Debug\Ninject.xml
+G:\Projekty\MCrawler\MCrawler\bin\Debug\HtmlAgilityPack.dll
+G:\Projekty\MCrawler\MCrawler\bin\Debug\HtmlAgilityPack.pdb
+G:\Projekty\MCrawler\MCrawler\bin\Debug\HtmlAgilityPack.xml
+G:\Projekty\MCrawler\MCrawler\bin\Debug\Moq.dll
+G:\Projekty\MCrawler\MCrawler\bin\Debug\nunit.framework.dll
+G:\Projekty\MCrawler\MCrawler\bin\Debug\Moq.xml
+G:\Projekty\MCrawler\MCrawler\bin\Debug\nunit.framework.xml
