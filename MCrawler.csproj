@@ -79,7 +79,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Results\ResultWriter.cs" />
     <Compile Include="Parsers\SettingsParser.cs" />
-    <Compile Include="Tests\CrawlerTests.cs" />
     <Compile Include="Tests\PageParserTests.cs" />
     <Compile Include="Tests\ResultWriterTests.cs" />
   </ItemGroup>
