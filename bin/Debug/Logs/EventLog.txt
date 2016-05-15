@@ -1,4 +1,0 @@
-2016-05-15 22:41:56,634 [10] INFO  ConsoleAppender - Depth: 2
-2016-05-15 22:41:56,664 [10] INFO  ConsoleAppender - StartUrl: http://apod.nasa.gov/apod/astropix.html
-2016-05-15 22:41:56,667 [10] INFO  ConsoleAppender - ResultFilename: Results.txt
-2016-05-15 22:41:56,668 [10] INFO  ConsoleAppender - ImageDirectoryName: images
